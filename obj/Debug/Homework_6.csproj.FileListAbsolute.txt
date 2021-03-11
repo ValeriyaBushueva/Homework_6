@@ -1,0 +1,7 @@
+D:\GeekBrains\Homework_6\Homework_6\bin\Debug\Homework_6.exe
+D:\GeekBrains\Homework_6\Homework_6\bin\Debug\Homework_6.pdb
+D:\GeekBrains\Homework_6\Homework_6\obj\Debug\Homework_6.csprojAssemblyReference.cache
+D:\GeekBrains\Homework_6\Homework_6\obj\Debug\Homework_6.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Homework_6\Homework_6\obj\Debug\Homework_6.exe
+D:\GeekBrains\Homework_6\Homework_6\obj\Debug\Homework_6.pdb
+D:\GeekBrains\Homework_6\Homework_6\bin\Debug\Student_6.txt
